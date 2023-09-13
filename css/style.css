@@ -10,11 +10,11 @@ h1 {
     padding: 15px;
 }
 h2 {
-    color: #C4C4C4;
+    color: #0D0D0D;
     font-size: 30px;
 }
 p {
-    color: #C4C4C4;
+    /* ? */
     font-size: 24px;
     padding-top: 10px;
     padding-left: 10px;
@@ -76,6 +76,9 @@ footer p {
     padding: 15px;
     padding-left: 0px;
 }
-.yellow p, .yellow h2 {
+.blue h2, .red p, .blue p{
+    color: #C4C4C4;
+}
+.yellow p {
     color: #707070;
 }
